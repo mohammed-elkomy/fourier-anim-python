@@ -1,4 +1,4 @@
-# Fourier Series Animation 
+# Fourier Series Animation
 This repo holds the code for [my medium article](www.go.om) on animating Fourier series.
 
 **To install the requirements**:
@@ -19,6 +19,7 @@ The directory structure for the repo: ⤵⤵
 │ ├── bezier.py ➡ making random smooth curves.
 │ ├── generate_joseph_fourier_portrait.py ➡ generate the PTS file for fourier.svg
 ```
+<<<<<<< HEAD
 
 **How to use**:
 1. To generate an arrow animation  
@@ -42,3 +43,5 @@ The directory structure for the repo: ⤵⤵
 ![thanks](https://github.com/mohammed-elkomy/fourier-anim-python/blob/main/demos/thanks.gif)
 
 I don't own the rights for any of those images
+=======
+
