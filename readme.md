@@ -41,5 +41,5 @@ The directory structure for the repo: ⤵⤵
 ![mosque](https://github.com/mohammed-elkomy/fourier-anim-python/blob/main/demos/mosque.gif)
 ![thanks](https://github.com/mohammed-elkomy/fourier-anim-python/blob/main/demos/thanks.gif)
 
-I don't own the rights for any of those images
+I don't own the rights for any of those images.
 
